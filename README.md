@@ -85,14 +85,3 @@ R^2 Score:                 0.85
 ## License
 This project is open-source and available under the MIT License.
 ```
-
-### Key Points
-- **Overview**: Describes the purpose and dataset.
-- **Features**: Highlights preprocessing, modeling, and evaluation steps.
-- **Requirements**: Lists all necessary Python packages.
-- **Usage**: Provides clear instructions for running the script.
-- **Configuration**: Notes key adjustable parameters.
-- **Output**: Describes what users can expect to see.
-- **Notes**: Includes important updates and dependencies.
-
-This README is tailored to your script, providing a comprehensive guide for users while maintaining clarity and conciseness. Let me know if you'd like to adjust or add anything!
